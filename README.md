@@ -8,7 +8,7 @@
 <br>
 
 ## 💡 Idea:
-The intuition of this project was to learn how to get API using fetch function.
+The intuition of this project was to learn how to get API using fetch function with React.
 
 
 
